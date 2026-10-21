@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-712-track-decoder-worker-and-sdk-bundle-size-budgets",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-712-track-decoder-worker-and-sdk-bundle-size-budgets": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-712-track-decoder-worker-and-sdk-bundle-size-budgets",
+    "origin"
+  ]
+}
